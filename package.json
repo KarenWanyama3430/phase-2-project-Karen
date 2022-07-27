@@ -1,0 +1,20 @@
+{
+  "name": "phase-2-project-karen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenWanyama3430/phase-2-project-Karen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenWanyama3430/phase-2-project-Karen/issues"
+  },
+  "homepage": "https://github.com/KarenWanyama3430/phase-2-project-Karen#readme"
+}
