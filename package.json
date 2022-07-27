@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KarenWanyama3430/phase-2-project-Karen/issues"
   },
-  "homepage": "https://github.com/KarenWanyama3430/phase-2-project-Karen#readme"
+  "homepage": "https://github.com/KarenWanyama3430/phase-2-project-Karen#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
